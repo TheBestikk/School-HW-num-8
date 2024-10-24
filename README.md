@@ -26,7 +26,7 @@ __Це просто домашнє завдання по школі, тому т
 1. Треба перейти по силці <a href="https://drive.google.com/file/d/17FnT2K9I3f2OOd3xtAuBTzHCK0-G4toI/view?usp=sharing">скачати файл</a>
 2. Відкрити у редакторі кода (буде розглянений VS code  <a href="https://code.visualstudio.com/Download">силка на скачування</a>)
 3. Обираєте вашу операційну систему <img src="img/first-img.png">
-4. Після скачування VS code перетягніть файл з кодом до сайд борду<img src="img/sideboard.png">
+4. Після скачування VS code перетягніть файл з кодом до сайд борду<img src="img/sideboard-v2.png">
 5. Натисніть F5 на клавіатурі або кнопку зверху(скрін нижче) <img src="img/run-v2.png">
 6. Далі відкриється віконце де треба обрати "Run Python file" <img src="img/run-file.png">
 7. Далі вже відкриється термінал де й буде працювати код <img src="img/terminal.png">
