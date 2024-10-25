@@ -32,6 +32,8 @@ __Це просто домашнє завдання по школі, тому т
 7. Далі вже відкриється термінал де й буде працювати код <img src="img/terminal.png">
 ## Відео до вправи
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZ0sQ5TEqp4?si=gQA2hdECzcKbL6yD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=hZ0sQ5TEqp4&t=0s" targer="_blank">
+  <img src="img/video-photo.png">
+</a>
 
 # __Дякую за перегляд, удачі та до скорої зустрічі!👋(дайте мені свою зірку репозиторію, будь ласка🌟 (´▽`ʃ♡ƪ) )__
