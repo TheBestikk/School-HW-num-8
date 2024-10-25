@@ -30,4 +30,8 @@ __Це просто домашнє завдання по школі, тому т
 5. Натисніть F5 на клавіатурі або кнопку зверху(скрін нижче) <img src="img/run-v2.png">
 6. Далі відкриється віконце де треба обрати "Run Python file" <img src="img/run-file.png">
 7. Далі вже відкриється термінал де й буде працювати код <img src="img/terminal.png">
+## Відео до вправи
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZ0sQ5TEqp4?si=gQA2hdECzcKbL6yD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # __Дякую за перегляд, удачі та до скорої зустрічі!👋(дайте мені свою зірку репозиторію, будь ласка🌟 (´▽`ʃ♡ƪ) )__
